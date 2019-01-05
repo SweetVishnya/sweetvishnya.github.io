@@ -8,7 +8,7 @@ I have a strong interest in computer security, return-oriented programming, bina
 
 # Contacts
 
- * vishnya \<at\> ispras . ru
+ * vishnya&nbsp;\<at\>&nbsp;ispras&nbsp;.&nbsp;ru
  * GitHub: [SweetVishnya](https://github.com/SweetVishnya)
  * [ResearchGate](https://www.researchgate.net/profile/Alexey_Vishnyakov)
 
