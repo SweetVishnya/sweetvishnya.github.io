@@ -14,7 +14,7 @@ I have a strong interest in computer security, return-oriented programming, bina
 
 # Publications and Talks
 
-## Method for analysis of code-reuse attacks \[[russian paper](http://www.ispras.ru/proceedings/docs/2018/30/5/isp_30_2018_5_31.pdf)\] \[[russian&nbsp;video](https://vimeo.com/298786113)\] \[[slides](vishnyakov-isprasopen2018.pdf)\]
+## Method for analysis of code-reuse attacks \[[russian&nbsp;paper](http://www.ispras.ru/proceedings/docs/2018/30/5/isp_30_2018_5_31.pdf)\] \[[russian&nbsp;video](https://vimeo.com/298786113)\] \[[slides](vishnyakov-isprasopen2018.pdf)\]
 
 <u>Vishnyakov A.V.</u>, Nurmukhametov A.R., Kurmangaleev Sh.F., Gaisaryan S.S. Method for analysis of code-reuse attacks. Trudy ISP RAN/Proc. ISP RAS, vol. 30, issue 5, 2018, pp. 31-54 (in Russian). DOI: 10.15514/ISPRAS-2018-30(5)-2
 
@@ -30,7 +30,7 @@ Nurmukhametov, A.R., Zhabotinskiy, E.A., Kurmangaleev, S.F., Gaissaryan, S.S. an
 
 Software vulnerabilities are a serious security threat. It is important to develop protection mechanisms preventing their exploitation, especially with a rapid increase of ROP attacks. State of the art protection mechanisms have some drawbacks that can be used by attackers. In this paper, we propose fine-grained address space layout randomization on program load that is able to protect from such kind of attacks. During the static linking stage, the executable and library files are supplemented with information about function boundaries and relocations. A system dynamic linker/loader uses this information to perform permutation of functions. The proposed method was implemented for 64-bit programs on CentOS 7 operating system. The implemented method has shown good resistance to ROP attacks evaluated by two metrics: the number of survived gadgets and the exploitability estimation of ROP chain examples. The implementation presented in this article is applicable across the entire operating system and has no compatibility problems affecting the program performance. The working capacity of proposed approach was demonstrated on real programs. The further research can cover forking randomization and finer granularity than on the function level. It also makes sense to implement the randomization of short functions placement taking into account the relationships between them. The close arrangement of functions that often call each other can improve the performance of individual programs.
 
-## Classification of ROP gadgets \[[russian paper](http://www.ispras.ru/proceedings/docs/2016/28/6/isp_28_2016_6_27.pdf)\] \[[russian slides](gadgets.pdf)\]
+## Classification of ROP gadgets \[[russian&nbsp;paper](http://www.ispras.ru/proceedings/docs/2016/28/6/isp_28_2016_6_27.pdf)\] \[[russian&nbsp;slides](gadgets.pdf)\]
 
 <u>Vishnyakov A.V.</u> Classification of ROP gadgets. Trudy ISP RAN/Proc. ISP RAS, vol. 28, issue 6, 2016, pp. 27-36 (in Russian). DOI: 10.15514/ISPRAS-2016-28(6)-2
 
@@ -38,7 +38,7 @@ Software vulnerabilities are a serious security threat. It is important to devel
 
 Return-oriented programming (ROP) is a dangerous exploitation technique which can be used to bypass modern defense mechanisms. ROP reuses code chunks ending with control transfer instruction from a program binary to form a chain corresponding some payload. These code chunks are called gadgets. Though, a certain set of gadgets should be available to exploit a vulnerability. Determining gadgets that can be used to form a ROP chain can be done by gadgets search and classification. This paper introduces a method for ROP gadgets classification that allows one to evaluate whether or not ROP technique can be used to exploit a program vulnerability. Classification is based on side-effects analysis of gadget execution with concrete inputs. Gadget instructions are translated into IR which is interpreted to track registers and memory usage. Initial registers and memory values are randomly generated. According to initial and final values of registers and memory gadget semantics can be explored. Classification performs several executions to determine gadget semantics. Proposed method is applied to program binaries and its capabilities were demonstrated on 32-bit and 64-bit binaries from Ubuntu 14.04. Using classification results program exploitability was confirmed for several examples. Furthermore, a possible exploitation of stack buffer overflow vulnerability in presence of write-what-where condition was shown on a model example demonstrating a bypass of canary, DEP and ASLR.
 
-## Severity software defects estimation in presence of modern defense mechanisms \[[russian paper](http://www.ispras.ru/proceedings/docs/2016/28/5/isp_28_2016_5_73.pdf)\]
+## Severity software defects estimation in presence of modern defense mechanisms \[[russian&nbsp;paper](http://www.ispras.ru/proceedings/docs/2016/28/5/isp_28_2016_5_73.pdf)\]
 
 Fedotov A.N., Padaryan V.A., Kaushan V.V., Kurmangaleev Sh.F., <u>Vishnyakov A.V.</u>, Nurmukhametov A.R. Software defect severity estimation in presence of modern defense mechanisms. Trudy ISP RAN/Proc. ISP RAS, vol. 28, issue 5, 2016. pp. 73-92 (in Russian). DOI: 10.15514/ISPRAS-2016-28(5)-4
 
