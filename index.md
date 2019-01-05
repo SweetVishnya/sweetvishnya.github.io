@@ -14,7 +14,7 @@ I have a strong interest in computer security, return-oriented programming, bina
 
 # Publications and Talks
 
-## Method for analysis of code-reuse attacks \[[russian paper](http://www.ispras.ru/proceedings/docs/2018/30/5/isp_30_2018_5_31.pdf)\] \[[russian video](https://vimeo.com/298786113)\] \[[slides](vishnyakov-isprasopen2018.pdf)\]
+## Method for analysis of code-reuse attacks \[[russian paper](http://www.ispras.ru/proceedings/docs/2018/30/5/isp_30_2018_5_31.pdf)\] \[[russian&nbsp;video](https://vimeo.com/298786113)\] \[[slides](vishnyakov-isprasopen2018.pdf)\]
 
 <u>Vishnyakov A.V.</u>, Nurmukhametov A.R., Kurmangaleev Sh.F., Gaisaryan S.S. Method for analysis of code-reuse attacks. Trudy ISP RAN/Proc. ISP RAS, vol. 30, issue 5, 2018, pp. 31-54 (in Russian). DOI: 10.15514/ISPRAS-2018-30(5)-2
 
