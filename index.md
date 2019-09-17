@@ -45,3 +45,11 @@ Fedotov A.N., Padaryan V.A., Kaushan V.V., Kurmangaleev Sh.F., <u>Vishnyakov A.V
 ### Abstract
 
 This paper introduces a refined method for automated exploitability evaluation of found program bugs. During security development lifecycle a significant number of crashes is detected in programs. Because of limited resources, bug fixing is time consuming and needs prioritization. It should be the matter of highest priority to fix exploitable bugs. Automated exploit generation technique is used to solve this problem in practice. Generated exploit confirms the presence of a critical vulnerability. However, state-of-the-art publications omit modern defense mechanisms preventing exploitation. It results in lowering of an evaluation quality. This paper considers modern vulnerability exploitation prevention mechanisms. An evaluation of their prevalence and efficiency is also presented. The method can be applied to program binaries and doesn’t require any debug information. Proposed method is based on symbolic interpretation of traces obtained by a full-system emulator. Our method can demonstrate a real exploitability for stack buffer overflow vulnerability with write-what-where condition even when DEP, ASLR, and “canary” operate together. The implemented method capabilities were shown on model examples and real programs.
+
+# Theses
+
+## Coursework 2019 &mdash; Semantic verification of linear machine instruction sequences \[[russian&nbsp;thesis](vishnyakov-coursework2019.pdf)\] \[[russian&nbsp;slides](vishnyakov-coursework2019-presentation.pdf)\]
+
+## Bachelor thesis 2018 &mdash; Development and implementation of code-reuse attacks analysis method \[[russian&nbsp;thesis](vishnyakov-diploma2018.pdf)\] \[[russian&nbsp;slides](vishnyakov-diploma2018-presentation.pdf)\]
+
+## Coursework 2017 &mdash; Guided path predicate construction during a symbolic interpretation of binary traces \[[russian&nbsp;thesis](vishnyakov-coursework2017.pdf)\] \[[russian&nbsp;slides](vishnyakov-coursework2017-presentation.pdf)\]
