@@ -17,6 +17,12 @@ I have a strong interest in computer security, return-oriented programming, bina
 
 # Publications and Talks
 
+## Sydr: Cutting Edge Dynamic Symbolic Execution \[[paper](https://arxiv.org/abs/2011.09269)\] \[[github](https://github.com/ispras/sydr-benchmark)\]
+
+### Abstract
+
+The security development lifecycle (SDL) is becoming an industry standard. Dynamic symbolic execution (DSE) has enormous amount of applications in computer security (fuzzing, vulnerability discovery, reverse-engineering, etc.). We propose several performance and accuracy improvements for dynamic symbolic execution. Skipping non-symbolic instructions allows to build a path predicate 1.2--3.5 times faster. Symbolic engine simplifies formulas during symbolic execution. Path predicate slicing eliminates irrelevant conjuncts from solver queries. We handle each jump table (switch statement) as multiple branches and describe the method for symbolic execution of multi-threaded programs. The proposed solutions were implemented in Sydr tool. Sydr performs inversion of branches in path predicate. Sydr combines DynamoRIO dynamic binary instrumentation tool with Triton symbolic engine. We evaluated Sydr features on 64-bit Linux executables.
+
 ## Survey of Methods for Automated Code-Reuse Exploit Generation \[[paper](https://arxiv.org/abs/2011.07862)\] \[[github](https://github.com/ispras/rop-benchmark)\] \[[russian&nbsp;paper](https://ispras.ru/preprints/docs/prep_32_2019.pdf)\]
 
 <u>Vishnyakov A.V.</u>, Nurmukhametov A.R. Survey of methods for automated code-reuse exploit generation. Proceedings of the Institute for System Programming, vol. 31, issue 6, 2019, pp. 99-124 DOI: 10.15514/ISPRAS-2019-31(6)-6.
