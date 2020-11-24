@@ -13,6 +13,7 @@ I have a strong interest in computer security, return-oriented programming, bina
  * [ResearchGate](https://www.researchgate.net/profile/Alexey_Vishnyakov)
  * [Google Scholar](https://scholar.google.ru/citations?user=2FcTnyQAAAAJ)
  * [LinkedIn](https://www.linkedin.com/in/sweetvishnya/)
+ * [Twitter](https://twitter.com/VishnyaSweet)
  * ORCID: [0000-0003-1819-220X](https://orcid.org/0000-0003-1819-220X)
 
 # Publications and Talks
