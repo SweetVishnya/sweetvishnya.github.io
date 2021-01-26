@@ -20,7 +20,7 @@ I have a strong interest in computer security, return-oriented programming, bina
 
 ## Sydr: Cutting Edge Dynamic Symbolic Execution \[[paper](https://arxiv.org/abs/2011.09269)\] \[[slides](vishnyakov-isprasopen2020.pdf)\] \[[github](https://github.com/ispras/sydr-benchmark)\]
 
-<u>Vishnyakov A.</u>, Fedotov A., Kuts D., Novikov A., Parygina D., Kobrin E., Logunova V., Belecky P., Kurmangaleev Sh. Sydr: Cutting Edge Dynamic Symbolic Execution. 2020 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2020.
+<u>Vishnyakov A.</u>, Fedotov A., Kuts D., Novikov A., Parygina D., Kobrin E., Logunova V., Belecky P., Kurmangaleev Sh. Sydr: Cutting Edge Dynamic Symbolic Execution. 2020 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2020, pp. 46-54. DOI: 10.1109/ISPRAS51486.2020.00014.
 
 ### Abstract
 
@@ -28,7 +28,7 @@ The security development lifecycle (SDL) is becoming an industry standard. Dynam
 
 ## Survey of Methods for Automated Code-Reuse Exploit Generation \[[paper](https://arxiv.org/abs/2011.07862)\] \[[github](https://github.com/ispras/rop-benchmark)\] \[[russian&nbsp;paper](https://ispras.ru/preprints/docs/prep_32_2019.pdf)\]
 
-<u>Vishnyakov A.V.</u>, Nurmukhametov A.R. Survey of methods for automated code-reuse exploit generation. Proceedings of the Institute for System Programming, vol. 31, issue 6, 2019, pp. 99-124 DOI: 10.15514/ISPRAS-2019-31(6)-6.
+<u>Vishnyakov A.V.</u>, Nurmukhametov A.R. Survey of methods for automated code-reuse exploit generation. Proceedings of the Institute for System Programming, vol. 31, issue 6, 2019, pp. 99-124. DOI: 10.15514/ISPRAS-2019-31(6)-6.
 
 ### Abstract
 
@@ -36,7 +36,7 @@ This paper provides a survey of methods and tools for automated code-reuse explo
 
 ## A Method for Analyzing Code-Reuse Attacks \[[publicly&nbsp;available&nbsp;draft](vishnyakov19-draft.pdf)\] \[[paper](https://link.springer.com/article/10.1134/S0361768819080061)\] \[[slides](vishnyakov-isprasopen2018.pdf)\] \[[russian&nbsp;paper](http://www.ispras.ru/proceedings/docs/2018/30/5/isp_30_2018_5_31.pdf)\] \[[russian&nbsp;video](https://vimeo.com/298786113)\]
 
-<u>Vishnyakov, A.V.</u>, Nurmukhametov, A.R., Kurmangaleev, S.F., and Gaisaryan S.S., 2019. A Method for Analyzing Code-Reuse Attacks. Programming and Computer Software 45(8), pp.473-484. DOI: 10.1134/S0361768819080061
+<u>Vishnyakov, A.V.</u>, Nurmukhametov, A.R., Kurmangaleev, S.F., and Gaisaryan S.S., 2019. A Method for Analyzing Code-Reuse Attacks. Programming and Computer Software 45(8), pp. 473-484. DOI: 10.1134/S0361768819080061
 
 ### Abstract
 
@@ -44,7 +44,7 @@ Nowadays, ensuring software security is of paramount importance. Software failur
 
 ## Fine-Grained Address Space Layout Randomization on Program Load \[[paper](https://link.springer.com/article/10.1134%2FS0361768818050080)\] \[[slides](http://www.ispras.ru/conf/2017/pdf/Nurmukhametov.pdf)\] \[[russian&nbsp;paper](https://www.ispras.ru/proceedings/docs/2017/29/6/isp_29_2017_6_163.pdf)\] \[[russian&nbsp;slides](https://nurmukhametov.com/fine_grained_aslr.ru.pdf)\]
 
-Nurmukhametov, A.R., Zhabotinskiy, E.A., Kurmangaleev, S.F., Gaissaryan, S.S., and <u>Vishnyakov, A.V.</u>, 2018. Fine-Grained Address Space Layout Randomization on Program Load. Programming and Computer Software, 44(5), pp.363-370. DOI: 10.1134/S0361768818050080
+Nurmukhametov, A.R., Zhabotinskiy, E.A., Kurmangaleev, S.F., Gaissaryan, S.S., and <u>Vishnyakov, A.V.</u>, 2018. Fine-Grained Address Space Layout Randomization on Program Load. Programming and Computer Software, 44(5), pp. 363-370. DOI: 10.1134/S0361768818050080
 
 ### Abstract
 
