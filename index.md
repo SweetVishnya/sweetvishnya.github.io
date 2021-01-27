@@ -4,7 +4,7 @@ I completed bachelor's and master's degrees in the [Faculty of Computational Mat
 
 I work for the Compiler Technology Department at [Ivannikov Institute for System Programming of the RAS](http://www.ispras.ru/en/) as a research scientist.
 
-I have a strong interest in computer security, return-oriented programming, binary analysis, symbolic execution, reverse engineering, and compilers.
+I have a strong interest in computer security, symbolic execution, automatic bug detection, return-oriented programming, dynamic analysis, binary analysis, reverse engineering, compilers, and developing tools for all the above.
 
 # Contacts
 
