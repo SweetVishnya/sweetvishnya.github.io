@@ -28,7 +28,7 @@ The security development lifecycle (SDL) is becoming an industry standard. Dynam
 
 ## Survey of Methods for Automated Code-Reuse Exploit Generation \[[paper](https://arxiv.org/abs/2011.07862)\] \[[github](https://github.com/ispras/rop-benchmark)\] \[[russian&nbsp;paper](https://ispras.ru/preprints/docs/prep_32_2019.pdf)\]
 
-<u>Vishnyakov A.V.</u>, Nurmukhametov A.R. Survey of methods for automated code-reuse exploit generation. Proceedings of the Institute for System Programming, vol. 31, issue 6, 2019, pp. 99-124. DOI: 10.15514/ISPRAS-2019-31(6)-6.
+<u>Vishnyakov A.V.</u>, Nurmukhametov A.R. Survey of methods for automated code-reuse exploit generation. Proceedings of the Institute for System Programming, vol. 31, issue 6, 2019, pp. 99-124. DOI: 10.15514/ISPRAS-2019-31(6)-6
 
 ### Abstract
 
