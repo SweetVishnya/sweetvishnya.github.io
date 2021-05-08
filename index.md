@@ -14,7 +14,7 @@ I have a strong interest in computer security, symbolic execution, fuzzing, auto
  * [Google Scholar](https://scholar.google.ru/citations?user=2FcTnyQAAAAJ)
  * [LinkedIn](https://www.linkedin.com/in/sweetvishnya/)
  * [Twitter](https://twitter.com/VishnyaSweet)
- * ResearcerID: [AAN-3944-2021](https://www.researcherid.com/rid/AAN-3944-2021)
+ * ResearcherID: [AAN-3944-2021](https://www.researcherid.com/rid/AAN-3944-2021)
  * Scopus Author ID: [57203944937](https://www.scopus.com/authid/detail.uri?authorId=57203944937)
  * ORCID: [0000-0003-1819-220X](https://orcid.org/0000-0003-1819-220X)
 
