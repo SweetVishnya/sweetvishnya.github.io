@@ -1,3 +1,5 @@
+<p style="text-align: right"><a href="/ru/">Русский</a></p>
+
 Hi!
 
 I completed bachelor's and master's degrees in the [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en) at [Lomonosov Moscow State University](https://www.msu.ru/en/).
