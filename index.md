@@ -1,5 +1,9 @@
 <p style="text-align: right"><a href="/ru/">Русский</a></p>
 
+<div style="float: right">
+<img src="https://gravatar.com/avatar/991fda15b33321f67ba8e3647980ea62?s=200">
+</div>
+
 Hi!
 
 I completed bachelor's and master's degrees in the [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en) at [Lomonosov Moscow State University](https://www.msu.ru/en/).
