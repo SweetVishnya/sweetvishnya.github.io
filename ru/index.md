@@ -28,7 +28,7 @@ title: Алексей Вишняков
 
 ## Sydr: Cutting Edge Dynamic Symbolic Execution \[[статья](https://arxiv.org/abs/2011.09269)\] \[[слайды](/vishnyakov-isprasopen2020.pdf)\] \[[github](https://github.com/ispras/sydr-benchmark)\]
 
-<u>Vishnyakov A.</u>, Fedotov A., Kuts D., Novikov A., Parygina D., Kobrin E., Logunova V., Belecky P., Kurmangaleev Sh. Sydr: Cutting Edge Dynamic Symbolic Execution. 2020 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2020, pp. 46-54. DOI: 10.1109/ISPRAS51486.2020.00014
+<u>Vishnyakov A.</u>, Fedotov A., Kuts D., Novikov A., Parygina D., Kobrin E., Logunova V., Belecky P., Kurmangaleev Sh. Sydr: Cutting Edge Dynamic Symbolic Execution. 2020 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2020, pp. 46-54. DOI: [10.1109/ISPRAS51486.2020.00014](https://doi.org/10.1109/ISPRAS51486.2020.00014)
 
 ### Аннотация
 
@@ -36,7 +36,7 @@ The security development lifecycle (SDL) is becoming an industry standard. Dynam
 
 ## Обзор методов автоматизированной генерации эксплойтов повторного использования кода \[[статья](https://arxiv.org/abs/2011.07862)\] \[[github](https://github.com/ispras/rop-benchmark)\] \[[русская&nbsp;статья](https://ispras.ru/preprints/docs/prep_32_2019.pdf)\]
 
-<u>Вишняков А.В.</u>, Нурмухаметов А.Р. Обзор методов автоматизированной генерации эксплойтов повторного использования кода. Труды Института системного программирования РАН. 2019;31(6):99-124. DOI: 10.15514/ISPRAS-2019-31(6)-6
+<u>Вишняков А.В.</u>, Нурмухаметов А.Р. Обзор методов автоматизированной генерации эксплойтов повторного использования кода. Труды Института системного программирования РАН. 2019;31(6):99-124. DOI: [10.15514/ISPRAS-2019-31(6)-6](https://doi.org/10.15514/ISPRAS-2019-31(6)-6)
 
 ### Аннотация
 
@@ -44,7 +44,7 @@ The security development lifecycle (SDL) is becoming an industry standard. Dynam
 
 ## Метод анализа атак повторного использования кода \[[препринт](/vishnyakov19-draft.pdf)\] \[[статья](https://link.springer.com/article/10.1134/S0361768819080061)\] \[[слайды](/vishnyakov-isprasopen2018.pdf)\] \[[русская&nbsp;статья](https://www.ispras.ru/proceedings/docs/2018/30/5/isp_30_2018_5_31.pdf)\] \[[видео](https://vimeo.com/298786113)\]
 
-<u>Vishnyakov, A.V.</u>, Nurmukhametov, A.R., Kurmangaleev, S.F., and Gaisaryan S.S., 2019. A Method for Analyzing Code-Reuse Attacks. Programming and Computer Software 45(8), pp. 473-484. DOI: 10.1134/S0361768819080061
+<u>Vishnyakov, A.V.</u>, Nurmukhametov, A.R., Kurmangaleev, S.F., and Gaisaryan S.S., 2019. A Method for Analyzing Code-Reuse Attacks. Programming and Computer Software 45(8), pp. 473-484. DOI: [10.1134/S0361768819080061](https://doi.org/10.1134/S0361768819080061)
 
 ### Аннотация
 
@@ -52,7 +52,7 @@ The security development lifecycle (SDL) is becoming an industry standard. Dynam
 
 ## Мелкогранулярная  рандомизация адресного  пространства  программы  при запуске \[[статья](https://link.springer.com/article/10.1134%2FS0361768818050080)\] \[[слайды](https://www.ispras.ru/conf/2017/pdf/Nurmukhametov.pdf)\] \[[русская&nbsp;статья](https://www.ispras.ru/proceedings/docs/2017/29/6/isp_29_2017_6_163.pdf)\] \[[русские&nbsp;слайды](https://nurmukhametov.com/fine_grained_aslr.ru.pdf)\]
 
-Nurmukhametov, A.R., Zhabotinskiy, E.A., Kurmangaleev, S.F., Gaissaryan, S.S., and <u>Vishnyakov, A.V.</u>, 2018. Fine-Grained Address Space Layout Randomization on Program Load. Programming and Computer Software, 44(5), pp. 363-370. DOI: 10.1134/S0361768818050080
+Nurmukhametov, A.R., Zhabotinskiy, E.A., Kurmangaleev, S.F., Gaissaryan, S.S., and <u>Vishnyakov, A.V.</u>, 2018. Fine-Grained Address Space Layout Randomization on Program Load. Programming and Computer Software, 44(5), pp. 363-370. DOI: [10.1134/S0361768818050080](https://doi.org/10.1134/S0361768818050080)
 
 ### Аннотация
 
@@ -60,7 +60,7 @@ Nurmukhametov, A.R., Zhabotinskiy, E.A., Kurmangaleev, S.F., Gaissaryan, S.S., a
 
 ## Классификация ROP гаджетов \[[статья](https://www.ispras.ru/proceedings/docs/2016/28/6/isp_28_2016_6_27.pdf)\] \[[слайды](/gadgets.pdf)\]
 
-<u>Вишняков А.В.</u> Классификация ROP гаджетов. Труды Института системного программирования РАН. 2016;28(6):27-36. DOI: 10.15514/ISPRAS-2016-28(6)-2
+<u>Вишняков А.В.</u> Классификация ROP гаджетов. Труды Института системного программирования РАН. 2016;28(6):27-36. DOI: [10.15514/ISPRAS-2016-28(6)-2](https://doi.org/10.15514/ISPRAS-2016-28(6)-2])
 
 ### Аннотация
 
@@ -68,7 +68,7 @@ Nurmukhametov, A.R., Zhabotinskiy, E.A., Kurmangaleev, S.F., Gaissaryan, S.S., a
 
 ## Оценка критичности программных дефектов в условиях работы современных защитных механизмов \[[статья](https://www.ispras.ru/proceedings/docs/2016/28/5/isp_28_2016_5_73.pdf)\]
 
-Федотов А.Н., Падарян В.А., Каушан В.В., Курмангалеев Ш.Ф., <u>Вишняков А.В.</u>, Нурмухаметов А.Р. Оценка критичности программных дефектов в условиях работы современных защитных механизмов. Труды Института системного программирования РАН. 2016;28(5):73-92. DOI: 10.15514/ISPRAS-2016-28(5)-4
+Федотов А.Н., Падарян В.А., Каушан В.В., Курмангалеев Ш.Ф., <u>Вишняков А.В.</u>, Нурмухаметов А.Р. Оценка критичности программных дефектов в условиях работы современных защитных механизмов. Труды Института системного программирования РАН. 2016;28(5):73-92. DOI: [10.15514/ISPRAS-2016-28(5)-4](https://doi.org/10.15514/ISPRAS-2016-28(5)-4)
 
 ### Аннотация
 
