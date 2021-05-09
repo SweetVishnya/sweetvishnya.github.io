@@ -2,7 +2,7 @@
 title: Алексей Вишняков
 ---
 
-p>. [English](/index.md)
+<p style="text-align: right">[English](/)</p>
 
 Привет!
 
