@@ -4,6 +4,10 @@ title: Алексей Вишняков
 
 <p style="text-align: right"><a href="/">English</a></p>
 
+<div style="float: left; margin-right: 1em">
+<img src="https://gravatar.com/avatar/991fda15b33321f67ba8e3647980ea62?s=200">
+</div>
+
 Привет!
 
 Я закончил бакалавриат факультета [ВМК МГУ](https://cs.msu.ru/) на кафедре системного программирования в 2018 г. Получил магистерскую степень по направлению «компиляторные технологии» факультета [ВМК МГУ](https://cs.msu.ru/) в 2020 г.
