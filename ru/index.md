@@ -2,7 +2,7 @@
 title: Алексей Вишняков
 ---
 
-<p style="text-align: right">[English](/)</p>
+<p style="text-align: right">[English]({% link /index.md %})</p>
 
 Привет!
 
