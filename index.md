@@ -1,6 +1,6 @@
 <p style="text-align: right"><a href="/ru/">Русский</a></p>
 
-<div style="float: left">
+<div style="float: left; margin-right: 1em">
 <img src="https://gravatar.com/avatar/991fda15b33321f67ba8e3647980ea62?s=200">
 </div>
 
