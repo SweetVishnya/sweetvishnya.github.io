@@ -1,3 +1,7 @@
+---
+permalink: /symqemu-sydr
+---
+
 # SymQEMU and Sydr comparison
 
 ![](symqemu-sydr.png)
