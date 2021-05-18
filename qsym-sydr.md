@@ -1,3 +1,7 @@
+---
+permalink: /qsym-sydr
+---
+
 # QSYM and Sydr comparison
 
 ![](qsym-sydr.png)
