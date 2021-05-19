@@ -4,6 +4,8 @@ permalink: /qsym-sydr
 
 # QSYM and Sydr comparison
 
+QSYM and Sydr run on one input.
+
 ![](qsym-sydr.png)
 
 weak = optimistic solutions
