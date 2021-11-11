@@ -28,6 +28,24 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
+## Symbolic Security Predicates: Hunt Program Weaknesses \[[paper](https://arxiv.org/abs/2111.05770)\]
+
+<u>Vishnyakov A.</u>, Logunova V., Kobrin E., Kuts D., Parygina D., Fedotov A. Symbolic Security Predicates: Hunt Program Weaknesses. 2021 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2021.
+
+### Abstract
+
+Dynamic symbolic execution (DSE) is a powerful method for path exploration during hybrid fuzzing and automatic bug detection. We propose security predicates to effectively detect undefined behavior and memory access violation errors. Initially, we symbolically execute program on paths that don't trigger any errors (hybrid fuzzing may explore these paths). Then we construct a symbolic security predicate to verify some error condition. Thus, we may change the program data flow to entail null pointer dereference, division by zero, out-of-bounds access, or integer overflow weaknesses. Unlike static analysis, dynamic symbolic execution does not only report errors but also generates new input data to reproduce them. Furthermore, we introduce function semantics modeling for common C/C++ standard library functions. We aim to model the control flow inside a function with a single symbolic formula. This assists bug detection, speeds up path exploration, and overcomes overconstraints in path predicate. We implement the proposed techniques in our dynamic symbolic execution tool Sydr. Thus, we utilize powerful methods from Sydr such as path predicate slicing that eliminates irrelevant constraints.
+
+We present Juliet Dynamic to measure dynamic bug detection tools accuracy. The testing system also verifies that generated inputs trigger sanitizers. We evaluate Sydr accuracy for 11 CWEs from Juliet test suite. Sydr shows 95.59% overall accuracy. We make Sydr evaluation artifacts publicly available to facilitate results reproducibility.
+
+## MAJORCA: Multi-Architecture JOP and ROP Chain Assembler \[[paper](https://arxiv.org/abs/2111.05781)\]
+
+Nurmukhametov, A., <u>Vishnyakov, A.</u>, Logunova V., Kurmangaleev Sh. MAJORCA: Multi-Architecture JOP and ROP Chain Assembler. 2021 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2021.
+
+### Abstract
+
+Nowadays, exploits often rely on a code-reuse approach. Short pieces of code called gadgets are chained together to execute some payload. Code-reuse attacks can exploit vulnerabilities in the presence of operating system protection that prohibits data memory execution. The ROP chain construction task is the code generation for the virtual machine defined by an exploited executable. It is crucial to understand how powerful ROP attacks can be. Such knowledge can be used to improve software security. We implement MAJORCA that generates ROP and JOP payloads in an architecture agnostic manner and thoroughly consider restricted symbols such as null bytes that terminate data copying via strcpy. The paper covers the whole code-reuse payloads construction pipeline: cataloging gadgets, chaining them in DAG, scheduling, linearizing to the ready-to-run payload. MAJORCA automatically generates both ROP and JOP payloads for x86 and MIPS. MAJORCA constructs payloads respecting restricted symbols both in gadget addresses and data. We evaluate MAJORCA performance and accuracy with rop-benchmark and compare it with open-source compilers. We show that MAJORCA outperforms open-source tools. We propose a ROP chaining metric and use it to estimate the probabilities of successful ROP chaining for different operating systems with MAJORCA as well as other ROP compilers to show that ROP chaining is still feasible. This metric can estimate the efficiency of OS defences.
+
 ## Survey of Methods for Automated Code-Reuse Exploit Generation \[[paper](https://arxiv.org/abs/2011.07862)\] \[[github](https://github.com/ispras/rop-benchmark)\] \[[russian&nbsp;paper](https://ispras.ru/preprints/docs/prep_32_2019.pdf)\]
 
 <u>Vishnyakov, A.V.</u> and Nurmukhametov, A.R., 2021. Survey of Methods for Automated Code-Reuse Exploit Generation. Programming and Computer Software 47(4), pp. 271-297. DOI: [10.1134/S0361768821040071](https://doi.org/10.1134/S0361768821040071)
