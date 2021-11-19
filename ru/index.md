@@ -32,7 +32,7 @@ title: Алексей Вишняков
 
 [BibTeX](papers.bib)
 
-## Symbolic Security Predicates: Hunt Program Weaknesses \[[статья](https://arxiv.org/abs/2111.05770)\]
+## Symbolic Security Predicates: Hunt Program Weaknesses \[[статья](https://arxiv.org/abs/2111.05770)\] \[[github](https://github.com/ispras/juliet-dynamic)\]
 
 <u>Vishnyakov A.</u>, Logunova V., Kobrin E., Kuts D., Parygina D., Fedotov A. Symbolic Security Predicates: Hunt Program Weaknesses. 2021 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2021.
 
@@ -42,7 +42,7 @@ Dynamic symbolic execution (DSE) is a powerful method for path exploration durin
 
 We present Juliet Dynamic to measure dynamic bug detection tools accuracy. The testing system also verifies that generated inputs trigger sanitizers. We evaluate Sydr accuracy for 11 CWEs from Juliet test suite. Sydr shows 95.59% overall accuracy. We make Sydr evaluation artifacts publicly available to facilitate results reproducibility.
 
-## MAJORCA: Multi-Architecture JOP and ROP Chain Assembler \[[статья](https://arxiv.org/abs/2111.05781)\]
+## MAJORCA: Multi-Architecture JOP and ROP Chain Assembler \[[статья](https://arxiv.org/abs/2111.05781)\] \[[github](https://github.com/ispras/rop-benchmark)\]
 
 Nurmukhametov, A., <u>Vishnyakov, A.</u>, Logunova V., Kurmangaleev Sh. MAJORCA: Multi-Architecture JOP and ROP Chain Assembler. 2021 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2021.
 
