@@ -28,7 +28,7 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
-## Symbolic Security Predicates: Hunt Program Weaknesses \[[paper](https://arxiv.org/abs/2111.05770)\] \[[github](https://github.com/ispras/juliet-dynamic)\]
+## Symbolic Security Predicates: Hunt Program Weaknesses \[[paper](https://arxiv.org/abs/2111.05770)\] \[[slides](vishnyakov-isprasopen2021.pdf)\] \[[github](https://github.com/ispras/juliet-dynamic)\]
 
 <u>Vishnyakov A.</u>, Logunova V., Kobrin E., Kuts D., Parygina D., Fedotov A. Symbolic Security Predicates: Hunt Program Weaknesses. 2021 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2021.
 
