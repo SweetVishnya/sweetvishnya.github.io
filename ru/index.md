@@ -34,7 +34,7 @@ title: Алексей Вишняков
 
 ## Symbolic Security Predicates: Hunt Program Weaknesses \[[статья](https://arxiv.org/abs/2111.05770)\] \[[видео](https://youtu.be/CI-Zioq5G84?t=6583)\] \[[слайды](/vishnyakov-isprasopen2021.pdf)\] \[[github](https://github.com/ispras/juliet-dynamic)\]
 
-<u>Vishnyakov A.</u>, Logunova V., Kobrin E., Kuts D., Parygina D., Fedotov A. Symbolic Security Predicates: Hunt Program Weaknesses. 2021 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2021.
+<u>Vishnyakov A.</u>, Logunova V., Kobrin E., Kuts D., Parygina D., Fedotov A. Symbolic Security Predicates: Hunt Program Weaknesses. 2021 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2021, pp. 76-85. DOI: [10.1109/ISPRAS53967.2021.00016](https://www.doi.org/10.1109/ISPRAS53967.2021.00016)
 
 ### Аннотация
 
@@ -44,7 +44,7 @@ We present Juliet Dynamic to measure dynamic bug detection tools accuracy. The t
 
 ## MAJORCA: Multi-Architecture JOP and ROP Chain Assembler \[[статья](https://arxiv.org/abs/2111.05781)\] \[[видео](https://youtu.be/CI-Zioq5G84?t=11670)\] \[[github](https://github.com/ispras/rop-benchmark)\]
 
-Nurmukhametov, A., <u>Vishnyakov, A.</u>, Logunova V., Kurmangaleev Sh. MAJORCA: Multi-Architecture JOP and ROP Chain Assembler. 2021 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2021.
+Nurmukhametov, A., <u>Vishnyakov, A.</u>, Logunova V., Kurmangaleev Sh. MAJORCA: Multi-Architecture JOP and ROP Chain Assembler. 2021 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2021, pp. 37-46. DOI: [10.1109/ISPRAS53967.2021.00011](https://www.doi.org/10.1109/ISPRAS53967.2021.00011)
 
 ### Аннотация
 
