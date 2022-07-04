@@ -8,7 +8,7 @@ Hi!
 
 I completed bachelor's and master's degrees in the [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en) at [Lomonosov Moscow State University](https://www.msu.ru/en/).
 
-I work for the Compiler Technology Department at [Ivannikov Institute for System Programming of the RAS](https://www.ispras.ru/en/) as a research scientist. I am excited to develop the cutting edge dynamic symbolic execution tool [Sydr](https://www.ispras.ru/en/technologies/sydr/) that enables automatic bug detection.
+I work for the Compiler Technology Department at [Ivannikov Institute for System Programming of the RAS](https://www.ispras.ru/en/) as a research scientist. I am excited to develop the cutting edge dynamic symbolic execution tool [Sydr](https://arxiv.org/abs/2011.09269) that enables automatic bug detection.
 
 I have a strong interest in computer security, security development lifecycle (SDL), symbolic execution, fuzzing, automatic bug detection, return-oriented programming, dynamic analysis, binary analysis, compilers, and developing tools for all the above.
 
