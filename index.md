@@ -28,11 +28,11 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
-### Hybrid Fuzzing of TensorFlow Machine Learning Framework \[[russin&nbsp;slides](kobrin-mitsobi2022.pdf)\]
+## Hybrid Fuzzing of TensorFlow Machine Learning Framework \[[russin&nbsp;slides](kobrin-mitsobi2022.pdf)\]
 
 Kobrin E., <u>Vishnyakov A.</u>, Fedotov A. Hybrid Fuzzing of TensorFlow Machine Learning Framework. MITSOBI 2022.
 
-### Symbolic Security Predicates in Hybrid Fuzzing \[[russian&nbsp;slides](vishnyakov-mitsobi2022.pdf)\]
+## Symbolic Security Predicates in Hybrid Fuzzing \[[russian&nbsp;slides](vishnyakov-mitsobi2022.pdf)\]
 
 <u>Vishnyakov A.</u>, Kobrin E., Fedotov A. Symbolic Security Predicates in Hybrid Fuzzing. MITSOBI 2022.
 
