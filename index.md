@@ -28,13 +28,17 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
+## Error detection in binary code with dynamic symbolic execution \[[russian&nbsp;paper](https://ispranproceedings.elpub.ru/jour/article/view/1512/1346)\] \[[russian&nbsp;slides](vishnyakov-mitsobi2022.pdf)\]
+
+<u>Vishnyakov A.V.</u>, Kobrin E.A., Fedotov A.N. Error detection in binary code with dynamic symbolic execution. Proceedings of the Institute for System Programming of the RAS. ISP RAS, vol. 34, issue 2, 2022. pp. 25-42 (in Russian). DOI: [10.15514/ISPRAS-2022-34(2)-3](https://doi.org/10.15514/ISPRAS-2022-34(2)-3)
+
+### Abstract
+
+Modern software is rapidly developing, revealing new program errors. More and more companies follow security development lifecycle (SDL). Fuzzing and symbolic execution are among the most popular options for supporting SDL. They allow to automatically test programs and find errors. Hybrid fuzzing is one of the most effective ways to test programs, which combines these two techniques. Checking security predicates during symbolic execution is an advanced technique, which focuses on solving extra constraints for input data to find an error and generate an input file to reproduce it. In this paper we propose a method for automatically detecting errors with the help of dynamic symbolic execution, combining hybrid fuzzing and checking security predicates. Firstly, we run hybrid fuzzing, which is required to increase number of corpora seeds. Then we minimize corpora. Thus, it would give the same coverage as the original corpora. After that we check security predicates on minimized corpora. Thus, security predicates allow to find errors like division by zero, out of bounds access, integer overflow, and more. Security predicates results are later verified with sanitizers to filter false positive results. As a result of applying the proposed method to different open source programs, we found 11 new different errors in 5 projects.
+
 ## Hybrid Fuzzing of TensorFlow Machine Learning Framework \[[russian&nbsp;slides](kobrin-mitsobi2022.pdf)\]
 
 Kobrin E., <u>Vishnyakov A.</u>, Fedotov A. Hybrid Fuzzing of TensorFlow Machine Learning Framework. MITSOBI 2022.
-
-## Symbolic Security Predicates in Hybrid Fuzzing \[[russian&nbsp;slides](vishnyakov-mitsobi2022.pdf)\]
-
-<u>Vishnyakov A.</u>, Kobrin E., Fedotov A. Symbolic Security Predicates in Hybrid Fuzzing. MITSOBI 2022.
 
 ## Symbolic Security Predicates: Hunt Program Weaknesses \[[paper](https://arxiv.org/abs/2111.05770)\] \[[slides](vishnyakov-isprasopen2021.pdf)\] \[[russian&nbsp;video](https://youtu.be/CI-Zioq5G84?t=6583)\] \[[github](https://github.com/ispras/juliet-dynamic)\]
 
