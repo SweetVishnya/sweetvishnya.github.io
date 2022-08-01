@@ -27,6 +27,7 @@ title: Алексей Вишняков
  * ResearcherID: [AAN-3944-2021](https://www.researcherid.com/rid/AAN-3944-2021)
  * Scopus Author ID: [57259933600](https://www.scopus.com/authid/detail.uri?authorId=57259933600)
  * ORCID: [0000-0003-1819-220X](https://orcid.org/0000-0003-1819-220X)
+ * РИНЦ AuthorID: [1114229](https://www.elibrary.ru/author_items.asp?authorid=1114229)
 
 # Публикации и доклады
 
