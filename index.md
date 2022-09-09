@@ -28,6 +28,18 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
+## Strong Optimistic Solving for Dynamic Symbolic Execution \[[paper](https://arxiv.org/abs/2209.03710)\]
+
+Parygina D., <u>Vishnyakov A.</u>, Fedotov A. Strong Optimistic Solving for Dynamic Symbolic Execution. 2022 Ivannikov Memorial Workshop (IVMEM), IEEE, 2022.
+
+### Abstract
+
+Dynamic symbolic execution (DSE) is an effective method for automated program testing and bug detection. It is increasing the code coverage by the complex branches exploration during hybrid fuzzing. DSE tools invert the branches along some execution path and help fuzzer examine previously unavailable program parts. DSE often faces over- and underconstraint problems. The first one leads to significant analysis complication while the second one causes inaccurate symbolic execution.
+
+We propose strong optimistic solving method that eliminates irrelevant path predicate constraints for target branch inversion. We eliminate such symbolic constraints that the target branch is not control dependent on. Moreover, we separately handle symbolic branches that have nested control transfer instructions that pass control beyond the parent branch scope, e.g. return, goto, break, etc. We implement the proposed method in our dynamic symbolic execution tool Sydr.
+
+We evaluate the strong optimistic strategy, the optimistic strategy that contains only the last constraint negation, and their combination. The results show that the strategies combination helps increase either the code coverage or the average number of correctly inverted branches per one minute. It is optimal to apply both strategies together in contrast with other configurations.
+
 ## Error detection in binary code with dynamic symbolic execution \[[russian&nbsp;paper](https://ispranproceedings.elpub.ru/jour/article/view/1512/1346)\] \[[russian&nbsp;slides](vishnyakov-mitsobi2022.pdf)\]
 
 <u>Vishnyakov A.V.</u>, Kobrin E.A., Fedotov A.N. Error detection in binary code with dynamic symbolic execution. Proceedings of the Institute for System Programming of the RAS. ISP RAS, vol. 34, issue 2, 2022. pp. 25-42 (in Russian). DOI: [10.15514/ISPRAS-2022-34(2)-3](https://doi.org/10.15514/ISPRAS-2022-34(2)-3)
