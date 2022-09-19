@@ -28,7 +28,7 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
-## Strong Optimistic Solving for Dynamic Symbolic Execution \[[paper](https://arxiv.org/abs/2209.03710)\]
+## Strong Optimistic Solving for Dynamic Symbolic Execution \[[paper](https://arxiv.org/abs/2209.03710)\] \[[slides](https://sydr-fuzz.github.io/papers/parygina-ivmem2022.pdf)\]
 
 Parygina D., <u>Vishnyakov A.</u>, Fedotov A. Strong Optimistic Solving for Dynamic Symbolic Execution. 2022 Ivannikov Memorial Workshop (IVMEM), IEEE, 2022.
 
