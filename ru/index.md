@@ -33,7 +33,7 @@ title: Алексей Вишняков
 
 [BibTeX](papers.bib)
 
-## Strong Optimistic Solving for Dynamic Symbolic Execution \[[статья](https://arxiv.org/abs/2209.03710)\] \[[слайды](https://sydr-fuzz.github.io/papers/parygina-ivmem2022.pdf)\]
+## Strong Optimistic Solving for Dynamic Symbolic Execution \[[статья](https://arxiv.org/abs/2209.03710)\] \[[видео](https://youtu.be/L7ZRV2Voee4?t=14710)\] \[[слайды](https://sydr-fuzz.github.io/papers/parygina-ivmem2022.pdf)\]
 
 Parygina D., <u>Vishnyakov A.</u>, Fedotov A. Strong Optimistic Solving for Dynamic Symbolic Execution. 2022 Ivannikov Memorial Workshop (IVMEM), IEEE, 2022.
 
