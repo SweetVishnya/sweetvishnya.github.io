@@ -24,7 +24,7 @@ title: Алексей Вишняков
  * [Google Scholar](https://scholar.google.ru/citations?user=2FcTnyQAAAAJ)
  * [LinkedIn](https://www.linkedin.com/in/sweetvishnya/)
  * [Twitter](https://twitter.com/VishnyaSweet)
- * ResearcherID: [AAN-3944-2021](https://www.researcherid.com/rid/AAN-3944-2021)
+ * ResearcherID: [AAN-3944-2021](https://www.webofscience.com/wos/author/record/AAN-3944-2021)
  * Scopus Author ID: [57259933600](https://www.scopus.com/authid/detail.uri?authorId=57259933600)
  * ORCID: [0000-0003-1819-220X](https://orcid.org/0000-0003-1819-220X)
  * РИНЦ AuthorID: [1114229](https://www.elibrary.ru/author_items.asp?authorid=1114229)
