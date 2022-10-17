@@ -125,6 +125,8 @@ Nurmukhametov, A.R., Zhabotinskiy, E.A., Kurmangaleev, S.F., Gaissaryan, S.S., a
 
 # Тезисы
 
+ * Кандидатская диссертация 2022 &mdash; Поиск ошибок в бинарном коде методами динамической символьной интерпретации \[[диссертация](/vishnyakov-phd-thesis2022.pdf)\] \[[автореферат](/vishnyakov-phd-synopsis2022.pdf)\]
+
  * Магистерская диссертация 2020 &mdash; Разработка и реализация метода генерации цепочек возвратно-ориентированного программирования \[[тезисы](/vishnyakov-master-thesis2020.pdf)\] \[[слайды](/vishnyakov-master-thesis2020-presentation.pdf)\]
 
  * Курсовая работа 2019 &mdash; Верификация семантики линейной последовательности машинных инструкций \[[тезисы](/vishnyakov-coursework2019.pdf)\] \[[слайды](/vishnyakov-coursework2019-presentation.pdf)\]
