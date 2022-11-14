@@ -29,6 +29,14 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
+## Analyzing properties of path predicate slicing algorithm \[[russian&nbsp;paper](https://ispranproceedings.elpub.ru/jour/article/view/1528/1361)\]
+
+<u>Vishnyakov A.V.</u> Analyzing properties of path predicate slicing algorithm. Proceedings of the Institute for System Programming of the RAS. ISP RAS, vol. 34, issue 3, 2022. pp. 7-12 (in Russian). DOI: [10.15514/ISPRAS-2022-34(3)-1](https://doi.org/10.15514/ISPRAS-2022-34(3)-1)
+
+### Abstract
+
+Security development lifecycle (SDL) is applied to improve software reliability and security. It extends program lifecycle with additional testing of security properties. Among other things, fuzz testing is widely used, which allows one to detect crashes and hangs of the analyzed code. The hybrid approach that combines fuzzing and dynamic symbolic execution showed even greater efficiency than classical fuzzing. Moreover, symbolic execution empowers one to add additional runtime checks called security predicates that detect memory errors and undefined behavior. This article explores the properties of the path predicate slicing algorithm that eliminates redundant constraints from a path predicate without accuracy loss. The article proves that the algorithm is finite and does not lose solutions. Moreover, the algorithm asymptotic complexity is estimated.
+
 ## Strong Optimistic Solving for Dynamic Symbolic Execution \[[paper](https://arxiv.org/abs/2209.03710)\] \[[slides](https://sydr-fuzz.github.io/papers/parygina-ivmem2022.pdf)\] \[[russian&nbsp;video](https://youtu.be/L7ZRV2Voee4?t=14710)\]
 
 Parygina D., <u>Vishnyakov A.</u>, Fedotov A. Strong Optimistic Solving for Dynamic Symbolic Execution. 2022 Ivannikov Memorial Workshop (IVMEM), IEEE, 2022.
