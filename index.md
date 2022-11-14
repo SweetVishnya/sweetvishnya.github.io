@@ -20,6 +20,7 @@ I have a strong interest in computer security, security development lifecycle (S
  * [Google Scholar](https://scholar.google.ru/citations?user=2FcTnyQAAAAJ)
  * [LinkedIn](https://www.linkedin.com/in/sweetvishnya/)
  * [Twitter](https://twitter.com/VishnyaSweet)
+ * [Mastodon](https://infosec.exchange/@VishnyaSweet)
  * ResearcherID: [AAN-3944-2021](https://www.webofscience.com/wos/author/record/AAN-3944-2021)
  * Scopus Author ID: [57259933600](https://www.scopus.com/authid/detail.uri?authorId=57259933600)
  * ORCID: [0000-0003-1819-220X](https://orcid.org/0000-0003-1819-220X)
