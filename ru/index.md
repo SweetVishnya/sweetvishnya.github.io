@@ -34,6 +34,14 @@ title: Алексей Вишняков
 
 [BibTeX](papers.bib)
 
+## Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle \[[статья](https://arxiv.org/abs/2211.11595)\]
+
+<u>Vishnyakov A.</u>, Kuts D., Logunova V., Parygina D., Kobrin E., Savidov G., Fedotov A. Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle. 2022 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2022.
+
+### Аннотация
+
+Nowadays automated dynamic analysis frameworks for continuous testing are in high demand to ensure software safety and satisfy the security development lifecycle~(SDL) requirements. The security bug hunting efficiency of cutting-edge hybrid fuzzing techniques outperforms widely utilized coverage-guided fuzzing. We propose an enhanced dynamic analysis pipeline to leverage productivity of automated bug detection based on hybrid fuzzing. We implement the proposed pipeline in the continuous fuzzing toolset Sydr-Fuzz which is powered by hybrid fuzzing orchestrator, integrating our DSE tool Sydr with libFuzzer and AFL++. Sydr-Fuzz also incorporates security predicate checkers, crash triaging tool Casr, and utilities for corpus minimization and coverage gathering. The benchmarking of our hybrid fuzzer against alternative state-of-the-art solutions demonstrates its superiority over coverage-guided fuzzers while remaining on the same level with advanced hybrid fuzzers. Furthermore, we approve the relevance of our approach by discovering 85 new real-world software flaws within the OSS-Sydr-Fuzz project. Finally, we open Casr source code to the community to facilitate examination of the existing crashes.
+
 ## Исследование свойств алгоритма слайсинга предиката пути \[[статья](https://ispranproceedings.elpub.ru/jour/article/view/1528/1361)\]
 
 <u>Вишняков А.В.</u> Исследование свойств алгоритма слайсинга предиката пути. Труды Института системного программирования РАН, том 34, вып. 3, 2022, стр. 7-12. DOI: [10.15514/ISPRAS-2022-34(3)-1](https://doi.org/10.15514/ISPRAS-2022-34(3)-1)
