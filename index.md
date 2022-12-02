@@ -29,7 +29,7 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
-## Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle \[[paper](https://arxiv.org/abs/2211.11595)\]
+## Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle \[[paper](https://arxiv.org/abs/2211.11595)\] \[[slides](vishnyakov-isprasopen2022.pdf)\]
 
 <u>Vishnyakov A.</u>, Kuts D., Logunova V., Parygina D., Kobrin E., Savidov G., Fedotov A. Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle. 2022 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2022.
 
