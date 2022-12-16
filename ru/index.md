@@ -142,7 +142,7 @@ Nurmukhametov, A.R., Zhabotinskiy, E.A., Kurmangaleev, S.F., Gaissaryan, S.S., a
 
 # Тезисы
 
- * Кандидатская диссертация 2022 &mdash; Поиск ошибок в бинарном коде методами динамической символьной интерпретации \[[диссертация](/vishnyakov-phd-thesis2022.pdf)\] \[[автореферат](/vishnyakov-phd-synopsis2022.pdf)\]
+ * Кандидатская диссертация 2022 &mdash; Поиск ошибок в бинарном коде методами динамической символьной интерпретации \[[диссертация](/vishnyakov-phd-thesis2022.pdf)\] \[[автореферат](/vishnyakov-phd-synopsis2022.pdf)\] \[[слайды](/vishnyakov-phd-thesis2022-presentation.pdf)\]
 
  * Магистерская диссертация 2020 &mdash; Разработка и реализация метода генерации цепочек возвратно-ориентированного программирования \[[тезисы](/vishnyakov-master-thesis2020.pdf)\] \[[слайды](/vishnyakov-master-thesis2020-presentation.pdf)\]
 

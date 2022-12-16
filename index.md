@@ -137,7 +137,7 @@ This paper introduces a refined method for automated exploitability evaluation o
 
 # Theses
 
- * PhD thesis 2022 &mdash; Error detection in binary code with dynamic symbolic execution \[[russian&nbsp;thesis](vishnyakov-phd-thesis2022.pdf)\] \[[russian&nbsp;synopsis](vishnyakov-phd-synopsis2022.pdf)\]
+ * PhD thesis 2022 &mdash; Error detection in binary code with dynamic symbolic execution \[[russian&nbsp;thesis](vishnyakov-phd-thesis2022.pdf)\] \[[russian&nbsp;synopsis](vishnyakov-phd-synopsis2022.pdf)\] \[[russian&nbsp;slides](vishnyakov-phd-thesis2022-presentation.pdf)\]
 
  * Master thesis 2020 &mdash; Development and implementation of return-oriented programming chains generation method \[[russian&nbsp;thesis](vishnyakov-master-thesis2020.pdf)\] \[[russian&nbsp;slides](vishnyakov-master-thesis2020-presentation.pdf)\]
 
