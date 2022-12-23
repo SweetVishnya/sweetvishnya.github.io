@@ -47,7 +47,7 @@ Security development lifecycle (SDL) is applied to improve software reliability 
 
 ## Strong Optimistic Solving for Dynamic Symbolic Execution \[[paper](https://arxiv.org/abs/2209.03710)\] \[[slides](https://sydr-fuzz.github.io/papers/parygina-ivmem2022.pdf)\] \[[russian&nbsp;video](https://youtu.be/L7ZRV2Voee4?t=14710)\]
 
-Parygina D., <u>Vishnyakov A.</u>, Fedotov A. Strong Optimistic Solving for Dynamic Symbolic Execution. 2022 Ivannikov Memorial Workshop (IVMEM), IEEE, 2022.
+Parygina D., <u>Vishnyakov A.</u>, Fedotov A. Strong Optimistic Solving for Dynamic Symbolic Execution. 2022 Ivannikov Memorial Workshop (IVMEM), IEEE, 2022, pp. 43-53. DOI: [10.1109/IVMEM57067.2022.9983965](https://www.doi.org/10.1109/IVMEM57067.2022.9983965)
 
 ### Abstract
 

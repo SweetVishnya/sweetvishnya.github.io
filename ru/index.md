@@ -52,7 +52,7 @@ Nowadays automated dynamic analysis frameworks for continuous testing are in hig
 
 ## Strong Optimistic Solving for Dynamic Symbolic Execution \[[статья](https://arxiv.org/abs/2209.03710)\] \[[видео](https://youtu.be/L7ZRV2Voee4?t=14710)\] \[[слайды](https://sydr-fuzz.github.io/papers/parygina-ivmem2022.pdf)\]
 
-Parygina D., <u>Vishnyakov A.</u>, Fedotov A. Strong Optimistic Solving for Dynamic Symbolic Execution. 2022 Ivannikov Memorial Workshop (IVMEM), IEEE, 2022.
+Parygina D., <u>Vishnyakov A.</u>, Fedotov A. Strong Optimistic Solving for Dynamic Symbolic Execution. 2022 Ivannikov Memorial Workshop (IVMEM), IEEE, 2022, pp. 43-53. DOI: [10.1109/IVMEM57067.2022.9983965](https://www.doi.org/10.1109/IVMEM57067.2022.9983965)
 
 ### Аннотация
 
