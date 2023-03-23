@@ -36,7 +36,7 @@ title: Алексей Вишняков
 
 ## Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle \[[статья](https://arxiv.org/abs/2211.11595)\] \[[видео](https://youtu.be/qw_tzzgX04E?t=16813)\] \[[слайды](/vishnyakov-isprasopen2022.pdf)\]
 
-<u>Vishnyakov A.</u>, Kuts D., Logunova V., Parygina D., Kobrin E., Savidov G., Fedotov A. Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle. 2022 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2022.
+<u>Vishnyakov A.</u>, Kuts D., Logunova V., Parygina D., Kobrin E., Savidov G., Fedotov A. Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle. 2022 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2022, pp. 111-123. DOI: [10.1109/ISPRAS57371.2022.10076861](https://www.doi.org/10.1109/ISPRAS57371.2022.10076861)
 
 ### Аннотация
 
