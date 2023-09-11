@@ -29,6 +29,28 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
+## Fuzzing for SDL: Select, Cover, Reveal \[[slides](https://offzone.moscow/upload/iblock/8ff/zkmuunr799jcdo41jf87h1lvx4y1f3o1.pdf)\]
+
+Vartan Padaryan, Vlad Stepanov, <u>Alexey Vishnyakov</u>. Fuzzing for SDL: Select, Cover, Reveal. OFFZONE 2023.
+
+### Abstract
+
+Fuzz testing is one of the basic techniques used in secure software development. To reap its benefits, developers must deeply integrate fuzz testing into software development processes and establish links with attack surface analysis, functional testing, sanitizers, automated parsing of detected failures.
+
+The talk covers both the fuzz engine and the process of selecting fuzz targets. Dynamic taint analysis coupled with virtual machine introspection allows you to find interfaces of complex software, through which an intruder will attack your software in the first place, and prioritize the fuzz order in resource-constrained environments. And hybrid fuzz testing with dynamic symbolic execution helps you quickly achieve good code coverage and detect errors even if they do not immediately lead to visible software failures
+
+## CASR: Your Life Vest in a Sea of Crashes \[[slides](https://offzone.moscow/upload/iblock/6cc/pujglwwoc8teeol03jwsuirfplm8e4dc.pdf)\]
+
+Andrey Fedotov, <u>Alexey Vishnyakov</u>. CASR: Your Life Vest in a Sea of Crashes. OFFZONE 2023.
+
+### Abstract
+
+CASR is an open‑source crash triage framework designed to handle post‑fuzzing challenges in security research and software development. It enables crash report generation, deduplication, clustering, and severity estimation while being integrated with modern fuzzers like AFL++, LibAFL, and libFuzzer.
+
+CASR supports multiple architectures (x86, ARM, RISC‑V), programming languages (C/C++/Go/Rust/Python/Java) and includes LibCASR for the development of custom analysis tools. It also offers casr‑dojo for exporting crashes to DefectDojo. CASR is a valuable tool for security researchers and developers dealing with fuzzing and vulnerability management.
+
+The CASR tool set implements the following fuzzing crash triage pipeline: crash report creation with all necessary information for manual analysis, significant reduction of duplicate crashes, clustering, creating UBSAN reports, and uploading new reports to the DefectDojo vulnerability management system
+
 ## Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle \[[paper](https://arxiv.org/abs/2211.11595)\] \[[slides](vishnyakov-isprasopen2022.pdf)\] \[[russian&nbsp;video](https://youtu.be/qw_tzzgX04E?t=16813)\]
 
 <u>Vishnyakov A.</u>, Kuts D., Logunova V., Parygina D., Kobrin E., Savidov G., Fedotov A. Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle. 2022 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2022, pp. 111-123. DOI: [10.1109/ISPRAS57371.2022.10076861](https://www.doi.org/10.1109/ISPRAS57371.2022.10076861)
