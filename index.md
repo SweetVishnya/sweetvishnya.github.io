@@ -29,7 +29,7 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
-## Fuzzing for SDL: Select, Cover, Reveal \[[slides](https://offzone.moscow/upload/iblock/8ff/zkmuunr799jcdo41jf87h1lvx4y1f3o1.pdf)\]
+## Fuzzing for SDL: Select, Cover, Reveal \[[slides](https://offzone.moscow/upload/iblock/8ff/zkmuunr799jcdo41jf87h1lvx4y1f3o1.pdf)\] \[[russian&nbsp;video](https://youtu.be/ASZMRp8AoTQ?si=HW0q_TxtbMWCkuoH&t=1067)\]
 
 Vartan Padaryan, Vlad Stepanov, <u>Alexey Vishnyakov</u>. Fuzzing for SDL: Select, Cover, Reveal. OFFZONE 2023.
 
@@ -39,7 +39,7 @@ Fuzz testing is one of the basic techniques used in secure software development.
 
 The talk covers both the fuzz engine and the process of selecting fuzz targets. Dynamic taint analysis coupled with virtual machine introspection allows you to find interfaces of complex software, through which an intruder will attack your software in the first place, and prioritize the fuzz order in resource-constrained environments. And hybrid fuzz testing with dynamic symbolic execution helps you quickly achieve good code coverage and detect errors even if they do not immediately lead to visible software failures
 
-## CASR: Your Life Vest in a Sea of Crashes \[[slides](https://offzone.moscow/upload/iblock/6cc/pujglwwoc8teeol03jwsuirfplm8e4dc.pdf)\]
+## CASR: Your Life Vest in a Sea of Crashes \[[slides](https://offzone.moscow/upload/iblock/6cc/pujglwwoc8teeol03jwsuirfplm8e4dc.pdf)\] \[[russian&nbsp;video](https://youtu.be/EgEeICZQD9M?si=hiFEwPmDqnh0cEq6)\]
 
 Andrey Fedotov, <u>Alexey Vishnyakov</u>. CASR: Your Life Vest in a Sea of Crashes. OFFZONE 2023.
 
