@@ -34,6 +34,14 @@ title: Алексей Вишняков
 
 [BibTeX](papers.bib)
 
+## Numeric Truncation Security Predicate \[[видео](https://www.youtube.com/watch?v=oMpSgMFFiXc&t=18608s)\] \[[статья](https://arxiv.org/abs/2312.06425)\]
+
+Mezhuev T., Kobrin I., <u>Vishnyakov A.</u>, Kuts D. Numeric Truncation Security Predicate. 2023 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2023.
+
+### Аннотация
+
+Numeric truncation is a widely spread error in software written in languages with static data typing, such as C/C++ or Java. It occurs when the significant bits of the value with a bigger type size are truncated during value conversion to the smaller type. Utilizing one of the most powerful methods for path exploration and automated bug detection called dynamic symbolic execution (DSE), we propose the symbolic security predicate for numeric truncation error detection, developed on top of DSE tool Sydr. Firstly, we execute the program on the data, which does not lead to any errors. During program execution we update symbolic shadow stack and shadow registers to track symbolic sizes of the symbolic variables to avoid false positives. Then, if we meet the instruction, which truncates the symbolic variable, we build the security predicate, try to solve it with the SMT-solver and in case of success save new input file to reproduce the error. We tested our approach on Juliet Dynamic test suite for CWE-197 and achieved 100% accuracy. We approved the workability of our approach by detecting 12 new errors of numeric truncation in 5 different real-world open source projects within OSS-Sydr-Fuzz project. All of the errors were reported, most of the reports were equipped with appropriate fixes, successfully confirmed and applied by project maintainers.
+
 ## Фаззинг для SDL: выбрать, накрыть, раскопать \[[видео](https://youtu.be/ASZMRp8AoTQ?si=HW0q_TxtbMWCkuoH&t=1067)\] \[[слайды](https://offzone.moscow/upload/iblock/8ff/zkmuunr799jcdo41jf87h1lvx4y1f3o1.pdf)\]
 
 Вартан Падарян, Владислав Степанов, <u>Алексей Вишняков</u>. Фаззинг для SDL: выбрать, накрыть, раскопать. OFFZONE 2023.

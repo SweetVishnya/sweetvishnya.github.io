@@ -29,6 +29,14 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
+## Numeric Truncation Security Predicate \[[paper](https://arxiv.org/abs/2312.06425)\] \[[russian&nbsp;video](https://www.youtube.com/watch?v=oMpSgMFFiXc&t=18608s)\]
+
+Mezhuev T., Kobrin I., <u>Vishnyakov A.</u>, Kuts D. Numeric Truncation Security Predicate. 2023 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2023.
+
+### Abstract
+
+Numeric truncation is a widely spread error in software written in languages with static data typing, such as C/C++ or Java. It occurs when the significant bits of the value with a bigger type size are truncated during value conversion to the smaller type. Utilizing one of the most powerful methods for path exploration and automated bug detection called dynamic symbolic execution (DSE), we propose the symbolic security predicate for numeric truncation error detection, developed on top of DSE tool Sydr. Firstly, we execute the program on the data, which does not lead to any errors. During program execution we update symbolic shadow stack and shadow registers to track symbolic sizes of the symbolic variables to avoid false positives. Then, if we meet the instruction, which truncates the symbolic variable, we build the security predicate, try to solve it with the SMT-solver and in case of success save new input file to reproduce the error. We tested our approach on Juliet Dynamic test suite for CWE-197 and achieved 100% accuracy. We approved the workability of our approach by detecting 12 new errors of numeric truncation in 5 different real-world open source projects within OSS-Sydr-Fuzz project. All of the errors were reported, most of the reports were equipped with appropriate fixes, successfully confirmed and applied by project maintainers.
+
 ## Fuzzing for SDL: Select, Cover, Reveal \[[slides](https://offzone.moscow/upload/iblock/8ff/zkmuunr799jcdo41jf87h1lvx4y1f3o1.pdf)\] \[[russian&nbsp;video](https://youtu.be/ASZMRp8AoTQ?si=HW0q_TxtbMWCkuoH&t=1067)\]
 
 Vartan Padaryan, Vlad Stepanov, <u>Alexey Vishnyakov</u>. Fuzzing for SDL: Select, Cover, Reveal. OFFZONE 2023.
