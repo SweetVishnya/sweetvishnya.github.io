@@ -29,7 +29,7 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
-## Numeric Truncation Security Predicate \[[paper](https://arxiv.org/abs/2312.06425)\] \[[russian&nbsp;video](https://www.youtube.com/watch?v=oMpSgMFFiXc&t=18608s)\]
+## Numeric Truncation Security Predicate \[[paper](https://arxiv.org/abs/2312.06425)\] \[[slides](mirror/mezhuev-ispopen2023.pdf)\] \[[russian&nbsp;video](https://www.youtube.com/watch?v=oMpSgMFFiXc&t=18608s)\]
 
 Mezhuev T., Kobrin I., <u>Vishnyakov A.</u>, Kuts D. Numeric Truncation Security Predicate. 2023 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2023.
 

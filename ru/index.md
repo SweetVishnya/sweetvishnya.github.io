@@ -34,7 +34,7 @@ title: Алексей Вишняков
 
 [BibTeX](papers.bib)
 
-## Numeric Truncation Security Predicate \[[видео](https://www.youtube.com/watch?v=oMpSgMFFiXc&t=18608s)\] \[[статья](https://arxiv.org/abs/2312.06425)\]
+## Numeric Truncation Security Predicate \[[видео](https://www.youtube.com/watch?v=oMpSgMFFiXc&t=18608s)\] \[[статья](https://arxiv.org/abs/2312.06425)\] \[[слайды](/mirror/mezhuev-ispopen2023.pdf)\]
 
 Mezhuev T., Kobrin I., <u>Vishnyakov A.</u>, Kuts D. Numeric Truncation Security Predicate. 2023 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2023.
 
