@@ -34,6 +34,16 @@ title: Алексей Вишняков
 
 [BibTeX](papers.bib)
 
+## SBOM в SIEM для реагирования на инциденты и защиты облачной инфраструктуры \[[видео](https://vk.com/video-172362100_456239215)\] \[[слайды](https://offzone.moscow/upload/presentation-2024/FastTrack_Vishnyakov_OFFZONE2024.pdf)\]
+
+<u>Алексей Вишняков</u>. SBOM в SIEM для реагирования на инциденты и защиты облачной инфраструктуры. OFFZONE 2024.
+
+### Аннотация
+
+Спикер расскажет о том, какую информацию о сборках следует хранить в SBOM, а также о вызовах и преимуществах отправки SBOM в SIEM‑систему.
+
+Доклад будет посвящен тулингу CycloneDX для генерации SBOM, обогащению его недостающими метаданными о сборке и артефактах, контролю целостности приложений (FIM), поиску уязвимостей в сторонних компонентах (SCA), помощи SBOM в реагировании на инциденты кибербезопасности и вызовам внедрения контролируемых сборок в компании «Яндекс Облако»
+
 ## Numeric Truncation Security Predicate \[[видео](https://www.youtube.com/watch?v=oMpSgMFFiXc&t=18608s)\] \[[статья](https://arxiv.org/abs/2312.06425)\] \[[слайды](/mirror/mezhuev-ispopen2023.pdf)\]
 
 Mezhuev T., Kobrin I., <u>Vishnyakov A.</u>, Kuts D. Numeric Truncation Security Predicate. 2023 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2023, p. 84-92. DOI: [10.1109/ISPRAS60948.2023.10508174](https://www.doi.org/10.1109/ISPRAS60948.2023.10508174)

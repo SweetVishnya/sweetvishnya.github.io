@@ -29,6 +29,16 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
+## SBOM into SIEM for Incident Response and Cloud Infrastructure Security \[[russian&nbsp;slides](https://offzone.moscow/upload/presentation-2024/FastTrack_Vishnyakov_OFFZONE2024.pdf)\] \[[russian&nbsp;video](https://vk.com/video-172362100_456239215)\]
+
+<u>Alexey Vishnyakov</u>. SBOM into SIEM for Incident Response and Cloud Infrastructure Security. OFFZONE 2024.
+
+### Abstract
+
+Alexey will explore what essential information should be included in the SBOM and discuss the associated challenges and advantages of sending SBOMs to an SIEM system.
+
+The talk will focus on utilizing CycloneDX tools for SBOM generation and enriching it with essential missing metadata related to builds and artifacts. The presentation will address topics such as File Integrity Monitoring (FIM), identifying vulnerabilities in third-party components (SCA), leveraging SBOMs for efficient incident response, and the obstacles encountered in deploying controlled builds in Yandex Cloud
+
 ## Numeric Truncation Security Predicate \[[paper](https://arxiv.org/abs/2312.06425)\] \[[slides](mirror/mezhuev-ispopen2023.pdf)\] \[[russian&nbsp;video](https://www.youtube.com/watch?v=oMpSgMFFiXc&t=18608s)\]
 
 Mezhuev T., Kobrin I., <u>Vishnyakov A.</u>, Kuts D. Numeric Truncation Security Predicate. 2023 Ivannikov ISPRAS Open Conference (ISPRAS), IEEE, 2023, p. 84-92. DOI: [10.1109/ISPRAS60948.2023.10508174](https://www.doi.org/10.1109/ISPRAS60948.2023.10508174)
