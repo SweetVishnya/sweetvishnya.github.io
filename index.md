@@ -47,7 +47,7 @@ Mezhuev T., Kobrin I., <u>Vishnyakov A.</u>, Kuts D. Numeric Truncation Security
 
 Numeric truncation is a widely spread error in software written in languages with static data typing, such as C/C++ or Java. It occurs when the significant bits of the value with a bigger type size are truncated during value conversion to the smaller type. Utilizing one of the most powerful methods for path exploration and automated bug detection called dynamic symbolic execution (DSE), we propose the symbolic security predicate for numeric truncation error detection, developed on top of DSE tool Sydr. Firstly, we execute the program on the data, which does not lead to any errors. During program execution we update symbolic shadow stack and shadow registers to track symbolic sizes of the symbolic variables to avoid false positives. Then, if we meet the instruction, which truncates the symbolic variable, we build the security predicate, try to solve it with the SMT-solver and in case of success save new input file to reproduce the error. We tested our approach on Juliet Dynamic test suite for CWE-197 and achieved 100% accuracy. We approved the workability of our approach by detecting 12 new errors of numeric truncation in 5 different real-world open source projects within OSS-Sydr-Fuzz project. All of the errors were reported, most of the reports were equipped with appropriate fixes, successfully confirmed and applied by project maintainers.
 
-## Fuzzing for SDL: Select, Cover, Reveal \[[slides](https://offzone.moscow/upload/iblock/8ff/zkmuunr799jcdo41jf87h1lvx4y1f3o1.pdf)\] \[[russian&nbsp;video](https://youtu.be/ASZMRp8AoTQ?si=HW0q_TxtbMWCkuoH&t=1067)\]
+## Fuzzing for SDL: Select, Cover, Reveal \[[slides](mirror/sydr-offzone2023.pdf)\] \[[russian&nbsp;video](https://youtu.be/ASZMRp8AoTQ?si=HW0q_TxtbMWCkuoH&t=1067)\]
 
 Vartan Padaryan, Vlad Stepanov, <u>Alexey Vishnyakov</u>. Fuzzing for SDL: Select, Cover, Reveal. OFFZONE 2023.
 
@@ -57,7 +57,7 @@ Fuzz testing is one of the basic techniques used in secure software development.
 
 The talk covers both the fuzz engine and the process of selecting fuzz targets. Dynamic taint analysis coupled with virtual machine introspection allows you to find interfaces of complex software, through which an intruder will attack your software in the first place, and prioritize the fuzz order in resource-constrained environments. And hybrid fuzz testing with dynamic symbolic execution helps you quickly achieve good code coverage and detect errors even if they do not immediately lead to visible software failures
 
-## CASR: Your Life Vest in a Sea of Crashes \[[slides](https://offzone.moscow/upload/iblock/6cc/pujglwwoc8teeol03jwsuirfplm8e4dc.pdf)\] \[[russian&nbsp;video](https://youtu.be/EgEeICZQD9M?si=hiFEwPmDqnh0cEq6)\]
+## CASR: Your Life Vest in a Sea of Crashes \[[slides](mirror/casr-offzone2023.pdf)\] \[[russian&nbsp;video](https://youtu.be/EgEeICZQD9M?si=hiFEwPmDqnh0cEq6)\]
 
 Andrey Fedotov, <u>Alexey Vishnyakov</u>. CASR: Your Life Vest in a Sea of Crashes. OFFZONE 2023.
 

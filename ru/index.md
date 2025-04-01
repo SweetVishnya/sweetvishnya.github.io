@@ -52,7 +52,7 @@ Mezhuev T., Kobrin I., <u>Vishnyakov A.</u>, Kuts D. Numeric Truncation Security
 
 Numeric truncation is a widely spread error in software written in languages with static data typing, such as C/C++ or Java. It occurs when the significant bits of the value with a bigger type size are truncated during value conversion to the smaller type. Utilizing one of the most powerful methods for path exploration and automated bug detection called dynamic symbolic execution (DSE), we propose the symbolic security predicate for numeric truncation error detection, developed on top of DSE tool Sydr. Firstly, we execute the program on the data, which does not lead to any errors. During program execution we update symbolic shadow stack and shadow registers to track symbolic sizes of the symbolic variables to avoid false positives. Then, if we meet the instruction, which truncates the symbolic variable, we build the security predicate, try to solve it with the SMT-solver and in case of success save new input file to reproduce the error. We tested our approach on Juliet Dynamic test suite for CWE-197 and achieved 100% accuracy. We approved the workability of our approach by detecting 12 new errors of numeric truncation in 5 different real-world open source projects within OSS-Sydr-Fuzz project. All of the errors were reported, most of the reports were equipped with appropriate fixes, successfully confirmed and applied by project maintainers.
 
-## Фаззинг для SDL: выбрать, накрыть, раскопать \[[видео](https://youtu.be/ASZMRp8AoTQ?si=HW0q_TxtbMWCkuoH&t=1067)\] \[[слайды](https://offzone.moscow/upload/iblock/8ff/zkmuunr799jcdo41jf87h1lvx4y1f3o1.pdf)\]
+## Фаззинг для SDL: выбрать, накрыть, раскопать \[[видео](https://youtu.be/ASZMRp8AoTQ?si=HW0q_TxtbMWCkuoH&t=1067)\] \[[слайды](/mirror/sydr-offzone2023.pdf)\]
 
 Вартан Падарян, Владислав Степанов, <u>Алексей Вишняков</u>. Фаззинг для SDL: выбрать, накрыть, раскопать. OFFZONE 2023.
 
@@ -62,7 +62,7 @@ Numeric truncation is a widely spread error in software written in languages wit
 
 В докладе рассказывается как о самом движке фаззера, так и о вопросе выбора фаззинг‑целей. Динамический анализ помеченных данных, скрещенный с интроспекцией виртуальной машины, позволяет находить интерфейсы сложного ПО, через которые нарушитель в первую очередь будет атаковать ваше ПО, и в условиях ограниченных ресурсов расставлять приоритеты по порядку фаззинга. А гибридный фаззинг с динамическим символьным выполнением поможет быстро достичь хорошего покрытия кода и выявить ошибки, даже если они сразу не приводят к видимым сбоям в работе ПО
 
-## CASR: ваш спасательный жилет в море крешей \[[видео](https://youtu.be/EgEeICZQD9M?si=hiFEwPmDqnh0cEq6)\] \[[слайды](https://offzone.moscow/upload/iblock/6cc/pujglwwoc8teeol03jwsuirfplm8e4dc.pdf)\]
+## CASR: ваш спасательный жилет в море крешей \[[видео](https://youtu.be/EgEeICZQD9M?si=hiFEwPmDqnh0cEq6)\] \[[слайды](/mirror/casr-offzone2023.pdf)\]
 
 Андрей Федотов, <u>Алексей Вишняков</u>. CASR: ваш спасательный жилет в море крешей. OFFZONE 2023.
 
