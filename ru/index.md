@@ -34,6 +34,18 @@ title: Алексей Вишняков
 
 [BibTeX](papers.bib)
 
+## Современные вызовы и решения в безопасной разработке облачных сервисов \[[видео](https://www.youtube.com/watch?v=3lUbNHiDXS8)\] \[[слайды](https://pt-phdays.storage.yandexcloud.net/Vishnyakov_Aleksej_Sovremennye_vyzovy_i_resheniya_v_bezopasnoj_razrabotke_oblachnyh_servisov_771f888bdd.pdf)\]
+
+<u>Алексей Вишняков</u>. Современные вызовы и решения в безопасной разработке облачных сервисов. Positive Hack Days Fest 2025.
+
+### Аннотация
+
+Докладчик поделится опытом Yandex Cloud в решении ключевых проблем безопасной разработки.
+
+Вы узнаете о методах, которые помогут выстроить надежный процесс SSDLC в вашей компании.
+
+От мониторинга здоровья процесса и понятных требований до снижения ложных срабатываний SAST, фаззинга, до триажа крэшей, SBOM для реагирования на инциденты...
+
 ## SBOM в SIEM для реагирования на инциденты и защиты облачной инфраструктуры \[[видео](https://vk.com/video-172362100_456239215)\] \[[слайды](https://offzone.moscow/upload/presentation-2024/FastTrack_Vishnyakov_OFFZONE2024.pdf)\]
 
 <u>Алексей Вишняков</u>. SBOM в SIEM для реагирования на инциденты и защиты облачной инфраструктуры. OFFZONE 2024.

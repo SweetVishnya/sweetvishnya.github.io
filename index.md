@@ -29,6 +29,16 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
+## Modern challenges and solutions in secure cloud service development \[[russian&nbsp;slides](https://pt-phdays.storage.yandexcloud.net/Vishnyakov_Aleksej_Sovremennye_vyzovy_i_resheniya_v_bezopasnoj_razrabotke_oblachnyh_servisov_771f888bdd.pdf)\] \[[russian&nbsp;video](https://www.youtube.com/watch?v=3lUbNHiDXS8)\]
+
+<u>Alexey Vishnyakov</u>. Modern challenges and solutions in secure cloud service development. Positive Hack Days Fest 2025.
+
+### Abstract
+
+The speaker will share Yandex Cloud's experience in solving key problems of secure development. You will learn about methods that will help establish a reliable SSDLC process in your company.
+
+From monitoring the health of the process and clear requirements to reducing false positives in SAST, fuzzing, to crash triage, SBOM for incident response...
+
 ## SBOM into SIEM for Incident Response and Cloud Infrastructure Security \[[russian&nbsp;slides](https://offzone.moscow/upload/presentation-2024/FastTrack_Vishnyakov_OFFZONE2024.pdf)\] \[[russian&nbsp;video](https://vk.com/video-172362100_456239215)\]
 
 <u>Alexey Vishnyakov</u>. SBOM into SIEM for Incident Response and Cloud Infrastructure Security. OFFZONE 2024.
