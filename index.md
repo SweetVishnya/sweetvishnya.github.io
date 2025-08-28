@@ -8,7 +8,7 @@ Hi!
 
 I completed bachelor's and master's degrees in the [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en) at [Lomonosov Moscow State University](https://www.msu.ru/en/). I received PhD at [Ivannikov Institute for System Programming of the RAS](https://www.ispras.ru/en/).
 
-I am the Head of Development Security at [Yandex Cloud](https://cloud.yandex.com/en/).
+I am the Head of Development Security at [Yandex Cloud](https://yandex.cloud/en/).
 
 I have a strong interest in computer security, security development lifecycle (SDL), symbolic execution, fuzzing, automatic bug detection, return-oriented programming, dynamic analysis, binary analysis, compilers, and developing tools for all the above.
 
