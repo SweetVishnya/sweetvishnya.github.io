@@ -29,7 +29,7 @@ I have a strong interest in computer security, security development lifecycle (S
 
 [BibTeX](papers.bib)
 
-## Modern challenges and solutions in secure cloud service development \[[russian&nbsp;slides](https://pt-phdays.storage.yandexcloud.net/Vishnyakov_Aleksej_Sovremennye_vyzovy_i_resheniya_v_bezopasnoj_razrabotke_oblachnyh_servisov_771f888bdd.pdf)\] \[[russian&nbsp;video](https://www.youtube.com/watch?v=3lUbNHiDXS8)\]
+## Modern challenges and solutions in secure cloud service development \[[russian&nbsp;slides](https://pt-phdays.storage.yandexcloud.net/Vishnyakov_Aleksej_Sovremennye_vyzovy_i_resheniya_v_bezopasnoj_razrabotke_oblachnyh_servisov_771f888bdd.pdf)\] \[[english&nbsp;translated&nbsp;video](https://youtu.be/w_Ej8s-AWqk?si=WSUHiUPzc6uq_rjK)\]
 
 <u>Alexey Vishnyakov</u>. Modern challenges and solutions in secure cloud service development. Positive Hack Days Fest 2025.
 
